@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-/*
-* @Author: Marte
-* @Date:   2017-12-26 14:48:18
-* @Last Modified by:   Marte
-* @Last Modified time: 2017-12-26 14:48:45
-*/
-
-'use strict';
-
-console.log('11111111')
-=======
 var data = [{
         "img": "images/img1.jpg",
         "linkto": "http://sale.jd.com/act/ctHBlMszhA2W3b.html?cpdad=1DLSUE"
@@ -134,8 +122,9 @@ Slider.prototype = {
 }
 
 var slider1 = new Slider({
-    data: data,
-    isAutoPlay: true,
-    timeOut: 1000
-})
->>>>>>> pleased
+        data: data,
+        isAutoPlay: true,
+        timeOut: 1000
+    }) >>>
+    >>>
+    > pleased
