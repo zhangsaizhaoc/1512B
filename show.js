@@ -125,6 +125,4 @@ var slider1 = new Slider({
         data: data,
         isAutoPlay: true,
         timeOut: 1000
-    }) >>>
-    >>>
-    > pleased
+    })
